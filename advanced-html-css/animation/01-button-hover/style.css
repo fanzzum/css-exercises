@@ -8,6 +8,12 @@
   font-family: Arial, sans-serif;
 }
 
+button:hover{
+  padding: 24px 36px;
+  font-size: 27px;
+
+}
+
 button {
   border-radius: 8px;
   border: none;
@@ -16,4 +22,5 @@ button {
   font-size: 18px;
   padding: 16px 24px;
   text-align: center;
+  transition-duration: 0.5s;
 }
